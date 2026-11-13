@@ -1,5 +1,6 @@
 # NX_Firmware
-Firmware for the Nintendo Switch
+
+https://github.com/THZoria/NX_Firmware/forks
 
 # Utility
 Firmware database for a discord bot
