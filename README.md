@@ -1,6 +1,12 @@
 # NX_Firmware
 
+Switch离线升级包的下载渠道很多，所有资源都没区别，因为Switch自身系统固件无法被修改。
+
 https://github.com/THZoria/NX_Firmware/forks
+
+解压缩的文件夹复制到TF卡根目录，更新大气层文件后进系统和相册，daybreak刷机升级，一路选右侧蓝色选项。
+
+大气层1.12.2最高支持23.5.0系统，向下兼容22.x，19.x，注意sys-patch插件不支持很低版本的系统。
 
 # Utility
 Firmware database for a discord bot
